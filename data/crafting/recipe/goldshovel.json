@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_shovel"
+        }
+    },
+    "result": {
+        "id": "minecraft:stick",
+        "count": 2
+    }
+}
